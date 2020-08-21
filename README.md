@@ -41,10 +41,10 @@ https://www.e-stat.go.jp/municipalities/cities/areacode
 - 政令市･郡（ふりがな）
 を追加しています。
 
-## インストール
+## AddressSource.csv
+AddressSource.csv を次のフォルダのどちらかに配置して下さい。
 - Ganges.AddressSplitter.dll を配置したフォルダ
-- あるいは、Ganges.AddressSplitter.dll を配置したフォルダの中に作成した、AddressSplitterフォルダ
-に、AddressSource.csv を配置して下さい。
+- Ganges.AddressSplitter.dll を配置したフォルダの中に作成した、AddressSplitterフォルダ
 
 ## 留意点
 - 檮原町→略式表記「梼原町」では分割できない
